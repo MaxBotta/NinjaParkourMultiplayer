@@ -3,7 +3,7 @@ import { Player } from '../objects/Player.js';
 import { Trampoline } from '../objects/Trampoline.js'
 import { Saw } from '../objects/Saw.js'
 import { RemotePlayer } from '../objects/RemotePlayer.js';
-import { SocketHandler } from '../socketHandler.js';
+import { SocketHandler } from '../SocketHandler.js';
 
 export class Play extends Phaser.Scene {
 
